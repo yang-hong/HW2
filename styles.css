@@ -1,4 +1,12 @@
-﻿body {
+﻿article:before {
+content:'******'
+}
+
+article:after {
+content:'******'
+}
+
+body {
   font-family:Comic Sans MS, Calibri, Courier,Arial,sans-serif;
   background-color:#999785;
 }
@@ -35,7 +43,10 @@ P{
   margin:50px;
 }
 
-footer{width:60%;
+.email {color:blue;
+}
+
+footer{width:60.5%;
 background-color:white;
 color: black;
 margin-right:auto;

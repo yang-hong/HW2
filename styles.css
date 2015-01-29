@@ -3,7 +3,7 @@
   background-color:#999785;
 }
 
-header {width:80%;
+header {width:60%;
 background-color:white;
 color: black;
 margin-right:auto;
@@ -21,7 +21,7 @@ width:70%
 float:right
 }
 
-section {width:80%;
+section {width:60%;
 background-color:pink;
 color: black;
 margin-right:auto;
@@ -35,7 +35,7 @@ P{
   margin:50px;
 }
 
-footer{width:80%;
+footer{width:60%;
 background-color:white;
 color: black;
 margin-right:auto;

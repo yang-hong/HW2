@@ -1,0 +1,50 @@
+<p>Yang Hong</p>
+<p>yang-hong@uiowa.edu</p>
+<p>Address: 410 Melrose Ct, Iowa City, IA 52246                (319)-512-0503</P>
+<p>Education</P>
+<p>The University of Iowa, Tipple College of Business, Iowa City, IA</P>                                                     Anticipated May 2016
+<p>B.B.A Marketing and B.B.A Information System <p/>      
+<p>University Dean List </p>                                                                             
+<br>
+<p>Marketing Work Experience</p>
+<p>Sales Representative</P>                                                                                                           July 2014-August 2014
+<p>Guojin Precious Metal Co., Ltd. Guangzhou, China</P>
+<p>Found and talked to perspective customers through phone, social media, and referral</P>
+<p>Communicated with customers on a daily basis to inform them about the up to date financial data such as ADP National Employment Report, Bureau of Labor Statistics, and Dow Jones Index</P>
+<p>Provided investment strategies to the clients to help them earn more money</P>
+<br>
+<p>Marketing Developer</P>                                                                                                           October 2013-May 2014  
+<p>Domestic Violence Intervention Program, Iowa City, IA</P>
+<p>Developed relationships with church groups, women groups and organizations to promote and recruit for volunteer purposes</P>
+<p>Organized and helped get media attention for events such as speech event, Domestic Violence Region Award</P>
+<p>Arranged annual fundraising event and counted and recorded more than 1000 inventories raised for the shelter supply of the following year</P> 
+<p>Recruited volunteers on different school fairs such as volunteer fair and health fair</P>
+<br>
+<p>Product Information Specialist</P>                                                                                           June 2013-August 2013  
+<p>Shenzhen Zouxiu Network Technology Co., Ltd. Shenzhen, China</P>
+<p>Communicated with brand suppliers from Italy, America, and Korea to get product information</P>
+<p>Translated and edited more than 3000 pieces of product information and put the data in the company’s own database</P>
+<p>Modified product pictures, wrote brands’ stories, and edited product information webpage for marketing purpose</P>
+<p>Extracted information from different database entities, such as warehouse details, products, suppliers and gave it to other departments to predict the sales</P>
+<p>Utilized EBS, ERP and WCS e-commerce system to upload, download data, and put product information in company’s official website</P>
+<br>
+<p>Database Work Experience</P> 
+<p>Database Administrator</P> 
+<p>University of Iowa Hospitals and Clinics, Iowa City, IA</P>                                                                           Dec 2014-Present
+<p>Learned data mapping and text translation</P> 
+<p>Worked on different software such as PostGIS, ArcGIS, PostgreSQL, and MetaMap</P> 
+<br>                                                                                                        
+<p>Volunteer Experience</P> 
+<p>Volunteer, STLF (Student Today Leaders Forever) Pay it Forward Tour</P>                                 March 2013       
+<p>Participated in trip to 6 cities including Michigan City, Toledo, Syracuse, NYC, Erie and Washington D.C</P> 
+<p>Visited with the elderly, cancer survivors, and individuals with mental disabilities</P>  
+<p>Assisted with river cleanup and tree projects</P>
+<br>
+<p>Volunteer, Potential Yours Thrift Store Volunteer, IA</P>                                                    January 2013-May 2013
+<p>Stored, classified and priced donated items to keep the store organized</P> 
+<p>Arranged and decorated stores to increase sales</P> 
+<p>Communicated with customers seeking merchandise and cooperated with store managers</P>
+<br>
+<p>Skills</p>
+<p>Event planning, public speaking, presentations, business savvy, data analytics, social media management. 
+Software: MS office, EBS, ERP, WCS, MS SQL developer, Access, Visual Basic, PostgreSQL, PostGIS, ArcGIS, Oracle, Minitab, Visio, ExtendSim, Github. Computing language: XML, HTML, SQL, ASP.NET.</P> 

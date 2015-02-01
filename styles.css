@@ -11,6 +11,10 @@ body {
   background-color:#999785;
 }
 
+div {
+display:block;
+}
+
 header {width:60%;
 background-color:white;
 color: black;
